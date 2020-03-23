@@ -1,0 +1,19 @@
+.my-bg{
+    background-color: plum;
+}
+
+.coluna-1 {
+    background-color: yellow;
+}
+
+.coluna-2 {
+    background-color: green;
+}
+
+.coluna-3 {
+    background-color: black;
+}
+
+.banner{
+    height: 80vh;
+}
